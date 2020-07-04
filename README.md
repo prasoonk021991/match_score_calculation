@@ -34,6 +34,6 @@ REFERENCES
 
 1.	Lin J, Wong KC. Off-target predictions in CRISPR-Cas9 gene editing using deep learning. Bioinformatics. 2018;34(17):i656-i663. doi:10.1093/bioinformatics/bty554. [PubMed]
 
-Prasoon Kumar
-Prasoonk02@gmail.com
+Prasoon Kumar - 
+Prasoonk02@gmail.com - 
 July 04 2020
