@@ -1,0 +1,29 @@
+Classifier,Model,Specificity,Sensitivity,Accuracy,AUC
+Naive Bayes - Gaussian,Imbalanced - Match,1,1,1,1
+Naive Bayes - Gaussian,Balanced - Manual,1,1,1,1
+Naive Bayes - Gaussian,Balanced - SMOTE,1,1,1,1
+Naive Bayes - Gaussian,Imbalanced - Mismatch,1,1,1,1
+Random Forest,Imbalanced - Match,1,1,1,1
+Random Forest,Balanced - Manual,1,1,1,1
+Random Forest,Balanced - SMOTE,1,1,1,1
+Random Forest,Imbalanced - Mismatch,1,1,1,1
+Light GBM,Imbalanced - Match,1,1,1,1
+Light GBM,Balanced - Manual,1,1,1,1
+Light GBM,Balanced - SMOTE,1,1,1,1
+Light GBM,Imbalanced - Mismatch,1,1,1,0.999942883
+SVM - Gaussian,Balanced - SMOTE,0.96,1,0.99,0.989833219
+SVM - Gaussian,Imbalanced - Match,0.96,1,0.99,0.989147818
+SVM - Polynomial,Balanced - SMOTE,0.93,1,0.97,0.979666438
+SVM - Polynomial,Imbalanced - Match,0.93,1,0.97,0.979380854
+SVM - Polynomial,Balanced - Manual,0.92,1,0.97,0.97595385
+SVM - Polynomial,Imbalanced - Mismatch,0.89,1,0.95,0.964987434
+SVM - Gaussian,Imbalanced - Mismatch,0.84,1,0.93,0.948366461
+SVM - Gaussian,Balanced - Manual,0.84,1,0.93,0.948309344
+Naive Bayes - Bernoulli,Imbalanced - Match,0.5,0.34,0.65,0.57741501
+Naive Bayes - Bernoulli,Balanced - Manual,0.5,0.34,0.65,0.57741501
+Naive Bayes - Bernoulli,Balanced - SMOTE,0.5,0.34,0.65,0.57741501
+SVM - Sigmoid,Imbalanced - Match,0.38,0.39,0.56,0.520859223
+Naive Bayes - Bernoulli,Imbalanced - Mismatch,0.35,1,0.36,0.503541238
+SVM - Sigmoid,Imbalanced - Mismatch,0.35,0.65,0.45,0.493154258
+SVM - Sigmoid,Balanced - Manual,0.34,0.49,0.49,0.491531625
+SVM - Sigmoid,Balanced - SMOTE,0.34,0.49,0.49,0.490056977
